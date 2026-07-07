@@ -51,5 +51,4 @@
 
 ---
 
-<sub>Описание репозитория — в [README.md](README.md). Правила работы — в [CLAUDE.md](CLAUDE.md).</sub>
 
